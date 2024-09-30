@@ -44,7 +44,7 @@ jobs:
         
       # Import Terraform HP Pool into Configuration
       - name: 'Terraform Import'
-        run:   terraform import azurerm_virtual_desktop_host_pool.hp "/subscriptions/5cf4abf5-ed25-4111-af57-8157f704166e/resourceGroups/avdazhprgeas/providers/Microsoft.DesktopVirtualization/hostPools/HP-STD-PROD-SAP-Desktop-EAS"
+        run:   terraform import azurerm_virtual_desktop_host_pool.hp "/subscriptions/5cf4abf5-ed25-4111-af57-8157f704166e/resourceGroups/avdazhprgeas/providers/Microsoft.DesktopVirtualization/hostPools/HP-STD-Win11-sap-Desktop-EAS"
       
       # Validate Terraform Configuration & State File
       - name: 'Terraform Validate'
