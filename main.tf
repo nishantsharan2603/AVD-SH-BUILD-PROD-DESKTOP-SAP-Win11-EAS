@@ -12,7 +12,7 @@ resource "azurerm_virtual_desktop_host_pool" "hp" {
     description              = "Created through the Azure Virtual Desktop extension"
     load_balancer_type       = "BreadthFirst"
     location                 = "westeurope"
-    maximum_sessions_allowed = 11
+    maximum_sessions_allowed = 14
     name                     = "HP-STD-Win11-sap-Desktop-EAS"
     preferred_app_group_type = "Desktop"
     resource_group_name      = "avdazhprgeas"
