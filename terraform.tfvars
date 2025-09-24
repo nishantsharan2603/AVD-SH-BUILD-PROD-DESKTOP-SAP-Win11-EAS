@@ -3,4 +3,4 @@ bol ="false"
 prefix="wzw11sapdes"
 rdsh_count=15
 rfc3339="2025-09-27T12:43:13Z"
-image_number="15.09.2025"
+image_number="16.09.2025"
