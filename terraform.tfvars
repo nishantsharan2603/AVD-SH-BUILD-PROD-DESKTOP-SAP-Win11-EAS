@@ -1,6 +1,6 @@
-rg ="rg-avd-eas-std-win11-compute1"
+rg ="rg-avd-eas-std-win11-compute2"
 bol ="false"
-prefix="azw11sapdes"
+prefix="wzw11sapdes"
 rdsh_count=15
-rfc3339="2025-08-27T12:43:13Z"
-image_number="16.08.2025"
+rfc3339="2025-09-27T12:43:13Z"
+image_number="15.09.2025"
